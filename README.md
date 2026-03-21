@@ -1,1 +1,1 @@
-# PyLadies Seoul 워크샵
+# PyLadies Seoul 워크
